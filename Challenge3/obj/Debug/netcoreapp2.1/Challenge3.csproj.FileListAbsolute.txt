@@ -1,0 +1,11 @@
+C:\Users\Emreu\Desktop\Challenge3\Challenge3\bin\Debug\netcoreapp2.1\Challenge3.deps.json
+C:\Users\Emreu\Desktop\Challenge3\Challenge3\bin\Debug\netcoreapp2.1\Challenge3.runtimeconfig.json
+C:\Users\Emreu\Desktop\Challenge3\Challenge3\bin\Debug\netcoreapp2.1\Challenge3.runtimeconfig.dev.json
+C:\Users\Emreu\Desktop\Challenge3\Challenge3\bin\Debug\netcoreapp2.1\Challenge3.dll
+C:\Users\Emreu\Desktop\Challenge3\Challenge3\bin\Debug\netcoreapp2.1\Challenge3.pdb
+C:\Users\Emreu\Desktop\Challenge3\Challenge3\obj\Debug\netcoreapp2.1\Challenge3.csprojAssemblyReference.cache
+C:\Users\Emreu\Desktop\Challenge3\Challenge3\obj\Debug\netcoreapp2.1\Challenge3.csproj.CoreCompileInputs.cache
+C:\Users\Emreu\Desktop\Challenge3\Challenge3\obj\Debug\netcoreapp2.1\Challenge3.AssemblyInfoInputs.cache
+C:\Users\Emreu\Desktop\Challenge3\Challenge3\obj\Debug\netcoreapp2.1\Challenge3.AssemblyInfo.cs
+C:\Users\Emreu\Desktop\Challenge3\Challenge3\obj\Debug\netcoreapp2.1\Challenge3.dll
+C:\Users\Emreu\Desktop\Challenge3\Challenge3\obj\Debug\netcoreapp2.1\Challenge3.pdb
